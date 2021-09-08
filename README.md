@@ -20,9 +20,7 @@ The board can be programmed via an FTDI converter via the Arduino IDE.
 
 ## Layout & Production 
 
-You can find all the open data here as a [KiCad](http://kicad.github.io) project. You can find all the necessary dependencies such as footprints or libraries in the folder **KiCad Symbols & Footprints**.
-
-The *Gerber files* for the production of the board can be found here under **releases**.
+You can find all the open data here as a [KiCad](http://kicad.github.io) project. The *Gerber files* for the production of the board can be found here under **releases**.
 
 ## License
 
