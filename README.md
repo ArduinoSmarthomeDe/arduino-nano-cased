@@ -12,6 +12,8 @@ The board can be programmed via an FTDI converter and the [Arduino IDE](https://
 
 ![](https://github.com/ArduinoSmarthomeDe/arduino-nano-cased/blob/main/preview-pcb-1.jpg)
 
+![](https://github.com/ArduinoSmarthomeDe/arduino-nano-cased/blob/main/preview-pcb-2.jpg)
+
 ## Parts
 
 | Item               | Part                    | Link  |
