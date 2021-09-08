@@ -1,4 +1,4 @@
-# Arduino Nano Cased
+# Arduino Nano Cased – Hammond ABS 1551PBK
 
 ## Description
 
