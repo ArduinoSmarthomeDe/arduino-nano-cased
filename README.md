@@ -17,6 +17,7 @@ The board can be programmed via an FTDI converter via the Arduino IDE.
 | Item               | Part                    | Link  |
 | ------------------ |:-----------------------:| ----- |
 | ABS mini case      | 1551PBK         | https://www.reichelt.de/de/de/mini-abs-gehaeuse-40-x-40-x-20-mm-ip-54-1551pbk-p121019.html |
+| FTDI Socket      | Molex PicoBlade 1.25mm         | https://www.reichelt.de/molex-stiftleiste-picoblade-1x5-polig-stecker-molex-530470510-p186209.html |
 
 ## Layout & Production 
 
