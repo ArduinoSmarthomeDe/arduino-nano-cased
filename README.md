@@ -4,19 +4,19 @@
 
 A small Arduino Uno / Nano for neat installation in a Hammond *40x40x20mm* mini ABS housing **1551PBK**. Enables installation in flush-mounted boxes, for example. Requires an ATMega368 with Arduino bootloader.
 
-## Preview
+The board can be programmed via an FTDI converter via the Arduino IDE.
 
-A little look at the finished circuit board (3D model):
+## Preview
 
 ![](https://github.com/ArduinoSmarthomeDe/arduino-nano-cased/blob/main/preview.jpg)
 
+![](https://github.com/ArduinoSmarthomeDe/arduino-nano-cased/blob/main/preview-pcb.jpg)
+
 ## Parts
 
-Some parts are a hard to come by, so here is a short overview of known distributors (no affiliates).
-
-| Item      | Part                    | Link  |
-| --------- |:-----------------------:| ----- |
-| Case      | 1551PBK         | https://www.reichelt.de/de/de/mini-abs-gehaeuse-40-x-40-x-20-mm-ip-54-1551pbk-p121019.html |
+| Item               | Part                    | Link  |
+| ------------------ |:-----------------------:| ----- |
+| ABS mini case      | 1551PBK         | https://www.reichelt.de/de/de/mini-abs-gehaeuse-40-x-40-x-20-mm-ip-54-1551pbk-p121019.html |
 
 ## Layout & Production 
 
