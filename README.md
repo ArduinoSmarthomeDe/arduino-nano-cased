@@ -4,7 +4,7 @@
 
 A small Arduino Uno / Nano for neat installation in a Hammond *40x40x20mm* mini ABS housing **1551PBK**. Enables installation in flush-mounted boxes, for example. Requires an ATMega368 with Arduino bootloader.
 
-The board can be programmed via an FTDI converter via the Arduino IDE.
+The board can be programmed via an FTDI converter via the Arduino IDE. To easily program the Arduino, I developed a small [FTDI Adapter PCB](https://github.com/ArduinoSmarthomeDe/arduino-ftdi-adapter) that adapts a regular 2.54mm pin header from a *FTDI USB programmer* to the *Molex 1.25mm PicoBlade* socket on this Arduino.
 
 ## Preview
 
